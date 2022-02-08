@@ -42,3 +42,9 @@ select {
 	width: 100%;
   min-height: 2em;
 }
+
+/* KEEPIN' IT CLASSY :) */
+
+.inline {
+  width: unset;
+}
