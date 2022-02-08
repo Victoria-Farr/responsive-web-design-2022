@@ -1,12 +1,29 @@
 body {
+
+}
+
+body {
+  width: 80%;
+  height: 100vh;
+  margin: 0 auto;
+  padding: 100px;
+  background-image: url("img/Aurora-background-1.png");
+  background-color: grey;
   font-family: 'Work Sans', sans-serif;
+  color: black;
 }
 
 h1 {
   font-family: 'Questrial', sans-serif;
-  text-transform: uppercase;
 }
 
 img {
   max-width: 30%;
+}
+
+p {
+  background-color: pink;
+  max-width: 1000px;
+  padding: 20px;
+  border: 1px solid black;
 }
