@@ -51,13 +51,13 @@ input, textarea {
 
 input[type="submit"] {
   display: block;
-  width: 100%
+  width: 100%;
   margin: 1em auto;
   height: 2em;
   font-size: 1em;
   font-family: 'Space Mono', monospace;
   color: #002D39;
-  background-color: #e6f9ff;
+  background-color: #ccf4ff;
   border-color: #007899;
   border-radius: 20px;
 
