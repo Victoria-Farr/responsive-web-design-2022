@@ -21,8 +21,10 @@ form {
   width: 60vw;
 	max-width: 700px;
 	min-width: 300px;
-	margin: 0 auto;
-  padding-bottom: 2em;
+	margin: 0 auto 100px;
+  padding: 3em;
+  background-color: pink;
+  border-radius: 20px;
 }
 
 h1, p {
