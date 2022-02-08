@@ -43,6 +43,26 @@ select {
   min-height: 2em;
 }
 
+input, textarea {
+  background-color: #e6ffe6;
+  border: 1px solid #00e600;
+  color: #002D39;
+}
+
+input[type="submit"] {
+  display: block;
+  width: 100%
+  margin: 1em auto;
+  height: 2em;
+  font-size: 1em;
+  font-family: 'Space Mono', monospace;
+  color: #002D39;
+  background-color: #66ff66;
+  border-color: #00e600;
+  border-radius: 20px;
+
+}
+
 /* KEEPIN' IT CLASSY :) */
 
 .inline {
