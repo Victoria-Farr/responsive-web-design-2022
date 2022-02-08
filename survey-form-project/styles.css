@@ -5,17 +5,13 @@ body {
   background-image: url("https://images.unsplash.com/photo-1604079628040-94301bb21b91?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2731&q=80");
   background-color: grey;
   font-family: 'Space Mono', monospace;
-  color: #002D39;
+  color: #007899;
 }
 
 fieldset {
   border: none;
 	padding: 0.5rem 0;
 }
-/*
-fieldset:not(:last-of-type) {
-  border-bottom: 3px dotted #e6ffe6;
-}*/
 
 form {
   width: 60vw;
@@ -23,14 +19,15 @@ form {
 	min-width: 300px;
 	margin: 0 auto 50px;
   padding: 3em;
-  background-color: rgba(230, 255, 230, .40);
+  background-color: rgba(225, 255, 225, .40);
   border-radius: 30px;
+  border: 1px solid #007899;
 }
 
 h1, p {
   margin: 1em auto;
   text-align: center;
-  color: white;
+  color: #007899;
 }
 
 label {
@@ -47,8 +44,8 @@ select {
 }
 
 input, textarea {
-  background-color: #e6ffe6;
-  border: 1px solid white;
+  background-color: #e6f9ff;
+  border: 1px solid #005066;
   color: #002D39;
 }
 
@@ -60,8 +57,8 @@ input[type="submit"] {
   font-size: 1em;
   font-family: 'Space Mono', monospace;
   color: #002D39;
-  background-color: #66ff66;
-  border-color: #00e600;
+  background-color: #e6f9ff;
+  border-color: #007899;
   border-radius: 20px;
 
 }
