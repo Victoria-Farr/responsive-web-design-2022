@@ -23,8 +23,8 @@ form {
 	min-width: 300px;
 	margin: 0 auto 100px;
   padding: 3em;
-  background-color: white;
-  border-radius: 20px;
+  background-color: rgba(230, 255, 230, .40);
+  border-radius: 30px;
 }
 
 h1, p {
@@ -34,7 +34,7 @@ h1, p {
 
 label {
   display: block;
-  margin: 0.5rem 0;
+  margin: 1.5em 0;
 }
 
 input,
