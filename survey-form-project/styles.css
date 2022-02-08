@@ -21,7 +21,7 @@ form {
   width: 60vw;
 	max-width: 700px;
 	min-width: 300px;
-	margin: 0 auto 100px;
+	margin: 0 auto 50px;
   padding: 3em;
   background-color: rgba(230, 255, 230, .40);
   border-radius: 30px;
@@ -35,10 +35,6 @@ h1, p {
 label {
   display: block;
   margin: 1.5em 0;
-}
-
-img {
-  max-width: 30%;
 }
 
 input,
@@ -80,11 +76,19 @@ input[type="file"] {
   margin-top: 50px;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 30%;
 }
 
 .inline {
   width: unset;
   margin: 0 0.5em 0 0;
   vertical-align: middle;
+}
+
+.small-logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+  width: 5em;
 }
