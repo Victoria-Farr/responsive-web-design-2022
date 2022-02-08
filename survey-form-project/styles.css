@@ -10,12 +10,12 @@ body {
 
 fieldset {
   border: none;
-	padding: 1rem 0;
+	padding: 0.5rem 0;
 }
-
+/*
 fieldset:not(:last-of-type) {
   border-bottom: 3px dotted #e6ffe6;
-}
+}*/
 
 form {
   width: 60vw;
