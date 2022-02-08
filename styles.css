@@ -1,0 +1,12 @@
+body {
+  font-family: 'Work Sans', sans-serif;
+}
+
+h1 {
+  font-family: 'Questrial', sans-serif;
+  text-transform: uppercase;
+}
+
+img {
+  max-width: 30%;
+}
