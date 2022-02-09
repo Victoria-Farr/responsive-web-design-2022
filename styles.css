@@ -7,7 +7,7 @@ body {
   height: 100vh;
   margin: 0 auto;
   padding: 100px;
-  background-image: url("img/Aurora-background-1.png");
+  background-image: url("img/aurora1.png");
   background-color: grey;
   font-family: 'Work Sans', sans-serif;
   color: black;
@@ -18,7 +18,7 @@ h1 {
 }
 
 img {
-  max-width: 30%;
+  max-width: 50%;
 }
 
 p {
@@ -26,4 +26,9 @@ p {
   max-width: 1000px;
   padding: 20px;
   border: 1px solid black;
+}
+
+/* Always keep it classy */
+.projects {
+  width: 900px;
 }
