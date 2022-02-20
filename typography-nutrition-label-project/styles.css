@@ -35,18 +35,28 @@ p {
 .bold {
   font-weight: 800;
 }
+
+.right {
+  float: right;
+}
+
 .lg {
   height: 10px;
 }
 
 .lg, .md {
   background-color: black;
-}
-
-.right {
-  float: right;
+  border: 0;
 }
 
 .sm-text {
   font-size: 0.85rem;
+}
+
+.calories-info h1 {
+  margin: -5px -2px;
+}
+
+.calories-info span {
+  font-size: 1.2em;
 }
