@@ -46,3 +46,7 @@ p {
 .right {
   float: right;
 }
+
+.sm-text {
+  font-size: 0.85rem;
+}
