@@ -73,9 +73,14 @@ p {
 }
 
 .dbl-indent {
-  margin: 2em;
+  margin-left: 2em;
 }
 
 .daily-value p:not(.no-divider) {
   border-bottom: 1px solid #888989;
+}
+
+.note {
+  font-size: 0.6rem;
+  margin: 5px 0;
 }
